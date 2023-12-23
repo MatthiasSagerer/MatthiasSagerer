@@ -18,3 +18,14 @@ def reachGoal(goal):
 
 #### *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."* <br>
 <div style="text-align: right">– Steve Jobs</div>
+
+
+<!--
+Things I could add:
+- Kaggle
+- X
+- LinkedIn
+- Instagram
+- Stackoverflow
+- Leetcode
+-->
