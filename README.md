@@ -13,10 +13,8 @@ def reachGoal(goal):
 #### *“When your mind knows it’s not going to quit, your body will adapt to whatever is in front of it.”* <br>
 <div style="text-align: right">– David Goggins</div>
 <br>
-
 #### *“Go build something! [...] Learning by building is really powerful.”* <br>
 <div style="text-align: right">– Chris Lattner</div>
 <br>
-
 #### *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."* <br>
 <div style="text-align: right">– Steve Jobs</div>
