@@ -6,7 +6,7 @@ def reachGoal(goal):
     approach, result = firstTry()
     while (result != target):
         insights = reflect(approach, result, target)
-        approach, result = iterate(insights)
+        approach, result = iterate(insights, approach, result, rarget)
     print(f"Achieved goal with {result}")
 ```
 
