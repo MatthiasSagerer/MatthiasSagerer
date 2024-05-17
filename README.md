@@ -5,7 +5,7 @@ def reachGoal(goal):
     target = defineMeasurableTarget(goal)
     approach, result = firstTry()
     while (result != target):
-        insights = reflect(approach, result)
+        insights = reflect(approach, result, target)
         approach, result = iterate(insights)
     print(f"Achieved goal with {result}")
 ```
