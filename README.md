@@ -10,14 +10,14 @@ def reachGoal(goal):
     print(f"Achieved goal with {result}")
 ```
 
-#### *“When your mind knows it’s not going to quit, your body will adapt to whatever is in front of it.”* <br>
-<div style="text-align: right">– David Goggins</div>
+#### *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."* <br>
+<div style="text-align: right">– Steve Jobs</div>
 
 #### *"Besides the noble art of getting things done, there is the noble art of leaving things undone. The wisdom of life consists in the elimination of non-essentials."* <br>
 <div style="text-align: right">– Lin Yutang</div>
 
-#### *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."* <br>
-<div style="text-align: right">– Steve Jobs</div>
+#### *“When your mind knows it’s not going to quit, your body will adapt to whatever is in front of it.”* <br>
+<div style="text-align: right">– David Goggins</div>
 
 
 <!--
