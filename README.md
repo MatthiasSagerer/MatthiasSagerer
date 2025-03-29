@@ -1,15 +1,3 @@
-### Biological neural network learning to build artificial ones. 🤖
-
-```python
-def reachGoal(goal):
-    target = defineMeasurableTarget(goal)
-    approach, result = firstTry()
-    while (result != target):
-        insights = reflect(approach, result, target)
-        approach, result = iterate(insights, approach, result, target)
-    print(f"Achieved goal with {result}")
-```
-
 ### Direction
 *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."* <br>
 <div style="text-align: right">– Steve Jobs</div>
@@ -19,15 +7,14 @@ def reachGoal(goal):
 <div style="text-align: right">– Lin Yutang</div>
 
 ### Action
-*"Pretend there’s a documentary crew filming your success story and following you around right now. What would you do?"* <br>
-<div style="text-align: right">– Joe Rogan</div>
+*"It's better to try and fail than to fail to try."* <br>
+<div style="text-align: right">– Unknown</div>
 
 <!--
 Things I could add:
 - Kaggle
 - X
 - LinkedIn
-- Instagram
 - Stackoverflow
 - Leetcode
 -->
