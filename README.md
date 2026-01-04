@@ -7,18 +7,27 @@
 <div style="text-align: right">– Lin Yutang</div>
 
 ### No Regrets
-*"It's better to try and fail than to fail to try."* <br>
+*“You have one life. Just one. How bad do you want to make it worth it?”* <br>
 <div style="text-align: right">– Unknown</div>
 
+### Resilience
+*“You're using the excuse of passion to disguise your inability to tolerate hardness.”* <br>
+<div style="text-align: right">– Alex Hormozi</div>
+
+### Ambition
+*"The only limit to the height of your achievements is the reach of your dreams and your willingness to work for them."* <br>
+<div style="text-align: right">– Michelle Obama</div>
+
+### Consistency
+*"Without commitment, you’ll never start. But more importantly, without consistency you’ll never finish. [...] Keep working, keep striving, never give up, fall down seven times, get up eight. Ease is a greater threat to progress than hardship. So, keep moving, keep growing, keep learning. See you at work."* <br>
+<div style="text-align: right">– Denzel Washington</div>
+
 ### Action
-*"It is not enough that we do our best; sometimes we must do what is required."* <br>
-<div style="text-align: right">– Sir Winston Leonard Spencer-Churchill</div>
+*“If you see a way to make progress at achieving something you really want, do it now. Right now might be the best conditions for it that there’ll ever be.”* <br>
 
 <!--
 Things I could add:
 - Kaggle
-- X
 - LinkedIn
-- Stackoverflow
 - Leetcode
 -->
