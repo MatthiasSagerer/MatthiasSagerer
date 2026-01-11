@@ -23,7 +23,7 @@
 <div style="text-align: right">– Denzel Washington</div>
 
 ### Action
-*“If you see a way to make progress at achieving something you really want, do it now. Right now might be the best conditions for it that there’ll ever be.”* <br>
+*“If you see a way to make progress at achieving something you really want, do it now. Right now might be the best conditions for it that there’ll ever be. Can you do it or will you actually do it? It ought to feel uncomfortable. That’s a sign that you grow.”* <br>
 
 <!--
 Things I could add:
