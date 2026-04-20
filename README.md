@@ -10,10 +10,6 @@
 *“You have one life. Just one. How bad do you want to make it worth it?”* <br>
 <div style="text-align: right">– Unknown</div>
 
-### Resilience
-*“You're using the excuse of passion to disguise your inability to tolerate hardness.”* <br>
-<div style="text-align: right">– Alex Hormozi</div>
-
 ### Ambition
 *"The only limit to the height of your achievements is the reach of your dreams and your willingness to work for them."* <br>
 <div style="text-align: right">– Michelle Obama</div>
